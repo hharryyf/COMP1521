@@ -1,0 +1,16 @@
+total 5020
+-rw-r--r-- 1 z5173587 z5173587     117 Apr 14 14:35 Makefile
+drwxr-x--- 2 z5173587 z5173587    4096 Sep 17 10:13 hello
+-rw-r----- 1 z5173587 z5173587     743 Sep  5 21:50 lseek_1.c
+-rw-r----- 1 z5173587 z5173587       0 Sep 30 16:37 out1
+-rw-r----- 1 z5173587 z5173587    1008 Sep  5 20:49 test
+-rw-r----- 1 z5173587 z5173587      24 Sep  5 21:07 test.txt
+-rw-r----- 1 z5173587 z5173587     828 Sep  5 21:51 test_file.txt
+-rwxr-x--- 1 z5173587 z5173587 1674228 Sep 10 18:51 testing
+-rw-r----- 1 z5173587 z5173587     524 Sep 10 18:51 testing.c
+drwxr-xr-x 2 z5173587 z5173587    4096 Sep  5 11:16 tests
+-rwxr-x--- 1 z5173587 z5173587 1678684 Sep  5 21:51 try
+-rwxr-x--- 1 z5173587 z5173587   15484 Sep  5 11:17 vmsim
+-rw-r--r-- 1 z5173587 z5173587    6141 Sep  5 11:17 vmsim.c
+-rwxr-x--- 1 z5173587 z5173587 1705292 Sep  5 11:27 vmsim_challenge
+-rw-r----- 1 z5173587 z5173587    6414 Sep  5 11:27 vmsim_challenge.c
